@@ -1,2 +1,2 @@
 # thehighvaluemen.com
- TheHigiValueMen.com website
+ TheHighValueMen.com website
