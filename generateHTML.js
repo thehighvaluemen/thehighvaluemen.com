@@ -15,7 +15,8 @@ const filenames = [
   "grooming",
   "style",
   "social",
-  "dating",
+	"dating",
+  "skills"
 ];
 const extension = ".md";
 let generatedHTML = [];
