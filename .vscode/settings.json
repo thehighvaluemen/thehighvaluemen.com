@@ -1,0 +1,11 @@
+{
+	"emeraldwalk.runonsave": {
+		"commands": [
+			{
+				"match": ".*",
+				"isAsync": true,
+				"cmd": "deno run --allow-all generateHTML.js"
+			},
+		]
+	}
+}
