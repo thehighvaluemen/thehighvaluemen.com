@@ -1,1 +1,3 @@
-Want to become a high value man? Read on.
+Do you want to become a high-value man? Read on.
+
+At a fundamental level, all you have is your brain. There is a strong correlation between the quality of your thinking and the quality of your life. This is why we start with tidiness and cleanliness. You won't be able to have a tidy and clean life, home, and body if you don't first cultivate a tidy and clean mind - this is the foundation in which to build upon. This requires effort, which is where most people fail, but if you're set on becoming a high-value man, read on and let's go together on this journey.

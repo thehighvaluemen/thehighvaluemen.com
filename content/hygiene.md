@@ -1,4 +1,4 @@
-Higiene is level 0. If you don't get this right, you suck. GET. THIS. RIGHT.
+Hygiene is level 0. If you don't get this right, you suck. GET. THIS. RIGHT.
 
 ## Your space
 
@@ -6,9 +6,9 @@ Before you can start working on having a clean body, you need to clean your spac
 
 1. Understand the problem
 2. Plan a solution
-3. Execute on that solution
+3. Execute that solution
 
-If this doesn't work, you didn't understand the problem, your plan is bad or, obviously, you didn't execute correctly. Go back and fix whatever failed.
+If this doesn't work, you didn't understand the problem, your plan is bad or, obviously, you didn't execute correctly. Go back, find what failed and fix it.
 
 ### Understanding the problem: why do spaces get dirty?
 
@@ -24,7 +24,7 @@ To make this easy to understand, let's look at the following table:
 |  | Airborne particles blown from outdoors |  |
 |  | Tracked-in soil |  |
 | Interior |  | 40% |
-|  | Dead skin shead by people |  |
+|  | Dead skin shed by people |  |
 |  | Fibers from carpets |  |
 |  | Pet dander |  |
 |  | Dust mites |  |

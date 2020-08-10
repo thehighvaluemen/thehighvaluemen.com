@@ -11,12 +11,13 @@ const encoder = new TextEncoder();
 const folder = "content";
 const filenames = [
   "introduction",
-  "higiene",
+  "tidiness",
+  "hygiene",
   "grooming",
   "style",
   "social",
-	"dating",
-  "skills"
+  "dating",
+  "skills",
 ];
 const extension = ".md";
 let generatedHTML = [];
