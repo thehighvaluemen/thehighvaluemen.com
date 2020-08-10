@@ -22,8 +22,8 @@ There is no progress without action. So, now that I've given you a taste for the
 1. Read [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo](https://amzn.to/2CvMLof)
 2. As you read, construct a plan of action
 3. When you're done reading the book, add the following to your plan:
-3.1. Tidy your computer
-3.2. Tidy your phone
-3.3. Tidy your social networks.
-3.4. Tidy your relationships.
+	* Tidy your computer
+	* Tidy your phone
+	* Tidy your social networks.
+	* Tidy your relationships
 4. Execute on that plan
